@@ -1,0 +1,20 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background: #23252C;
+}
+.App{
+  max-width: 317px;
+  margin: auto;
+  border-radius: 10px;
+  background: #1A1B21;
+}
